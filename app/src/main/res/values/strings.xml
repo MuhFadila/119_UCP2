@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="nama">nama</string>
+    <string name="NIM">NIM</string>
+    <string name="konsentrasi">konsentrasi</string>
+    <string name="judul">judul</string>
+    <string name="Harris">Harris Setiawan</string>
+    <string name="Dwijoko">Dwi Joko P</string>
+    <string name="Aprillia">Aprillia kurnianti</string>
+    <string name="next">lanjut</string>
+    <string name="back_button">kembali</string>
+    <string name="Dosen1">Dosen 1</string>
+    <string name="Dosen2">Dosen 2</string>
+
+
+</resources>
